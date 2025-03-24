@@ -1,4 +1,4 @@
-👋 Hey there! I'm Howard | Rust Developer 🦀
+👋 Hey there! am a Rust Developer 🦀
 
 🔹 Passionate Rust Developer specialized in systems programming, blockchain, and cybersecurity.  
 🔹 I build safe, fast, and reliable software** with zero-cost abstractions and high-performance code.  
